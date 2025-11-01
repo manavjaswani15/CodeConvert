@@ -199,4 +199,5 @@ For issues and questions:
 4. Open an issue on GitHub
 ---
 
-Made with using Google Gemini API by SRT :)
+
+Made with using Google Gemini API by Manav Jaswani :)
